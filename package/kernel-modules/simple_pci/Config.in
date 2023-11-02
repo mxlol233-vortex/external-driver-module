@@ -1,0 +1,5 @@
+config BR2_PACKAGE_KMOD_EXAMPLE
+	bool "simple_pci"
+	depends on BR2_LINUX_KERNEL
+	help
+		Simple simple pci device for QEMU.

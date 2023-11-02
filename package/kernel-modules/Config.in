@@ -1,0 +1,2 @@
+
+source "$BR2_EXTERNAL_DRIVER_MODULE_PATH/package/kernel-modules/simple_pci/Config.in"
